@@ -1,3 +1,4 @@
+langchain-tavily
 nest-asyncio
 ipython
 typing-extensions
